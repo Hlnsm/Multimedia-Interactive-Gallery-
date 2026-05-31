@@ -1,0 +1,13 @@
+# Visual Studio / openFrameworks build output
+.vs/
+obj/
+bin/*.exe
+bin/*.pdb
+bin/*.ilk
+bin/*.exp
+bin/*.lib
+*.vcxproj.user
+
+# OS noise
+Thumbs.db
+Desktop.ini

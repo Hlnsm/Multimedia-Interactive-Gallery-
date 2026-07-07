@@ -62,3 +62,7 @@ Formatos suportados:
 | `G` | Voltar a grelha |
 | `F` | Fullscreen |
 | `H` | Ajuda |
+
+team:
+Henrique Monteiro
+Madalena Alves
